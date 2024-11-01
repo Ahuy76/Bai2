@@ -1,14 +1,34 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using SuKien.Data;
 using SuKien.Services.Interfaces;
 using SuKien.Services;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews(); // This adds MVC support, including TempData.
 builder.Services.AddEndpointsApiExplorer();
+
+// Configure JWT Authentication
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            ValidIssuer = builder.Configuration["Jwt:Issuer"],
+            ValidAudience = builder.Configuration["Jwt:Audience"],
+            IssuerSigningKey = new SymmetricSecurityKey(
+                Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+        };
+    });
 
 // Add Swagger
 builder.Services.AddSwaggerGen(c =>
@@ -19,8 +39,32 @@ builder.Services.AddSwaggerGen(c =>
         Version = "v1",
         Description = "API for managing Event"
     });
-});
 
+    // Add JWT Authentication to Swagger
+    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        Description = "JWT Authorization header using the Bearer scheme.",
+        Name = "Authorization",
+        In = ParameterLocation.Header,
+        Type = SecuritySchemeType.ApiKey,
+        Scheme = "Bearer"
+    });
+
+    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+            },
+            Array.Empty<string>()
+        }
+    });
+});
 
 // Add CORS
 builder.Services.AddCors(options =>
@@ -41,7 +85,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString);
 });
 
-// Thêm dịch vụ của bạn vào DI container
+// Register services in DI container
 builder.Services.AddScoped<IAdminService, AdminService>();
 builder.Services.AddScoped<SuKien.Services.IEventService, EventService>();
 builder.Services.AddScoped<ISponsorService, SponsorService>();
@@ -50,7 +94,6 @@ builder.Services.AddScoped<IPostService, PostService>();
 builder.Services.AddScoped<IQRCheckinService, QRCheckinService>();
 builder.Services.AddScoped<IPostLikeService, PostLikeService>();
 builder.Services.AddScoped<IEventLikeService, EventLikeService>();
-
 
 var app = builder.Build();
 
@@ -68,10 +111,12 @@ if (app.Environment.IsDevelopment() || app.Environment.IsStaging())
 // Enable HTTPS redirection
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
 // Enable CORS for all origins
 app.UseCors("AllowAll");
 
 // Enable Authorization Middleware
+app.UseAuthentication();
 app.UseAuthorization();
 
 // Map Controllers
@@ -81,7 +126,3 @@ app.MapControllerRoute(
 
 // Run the app
 app.Run();
-
-
-
-
