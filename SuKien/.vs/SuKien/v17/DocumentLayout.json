@@ -1,0 +1,807 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Thuctap\\SuKien\\SuKien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\controllers\\likescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\controllers\\likescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\ieventlikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\ieventlikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\eventlikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\eventlikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\postlikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\postlikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\ipostlikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\ipostlikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\controllers\\checkincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\qrcheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\qrcheckin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\qrcheckinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\qrcheckinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\iqrcheckinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\iqrcheckinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\controllers\\participantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\isponsorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\isponsorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\dtos\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\dtos\\participantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\dtos\\eventparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\dtos\\eventparticipantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\iparticipantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\services\\sponsorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\services\\sponsorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\controllers\\admincontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\controllers\\admincontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\dtos\\qrcheckindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\dtos\\qrcheckindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\controllers\\sponsorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\controllers\\sponsorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\dtos\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\dtos\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\dtos\\sponsordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\dtos\\sponsordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\dtos\\postlikedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\dtos\\postlikedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\dtos\\eventlikedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\dtos\\eventlikedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\eventlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\eventlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\postlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\postlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\sponsor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|e:\\thuctap\\sukien\\sukien\\sukien\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18804440-DB4C-44D6-A52D-511C9E2503EB}|SuKien\\SuKien.csproj|solutionrelative:sukien\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventLikeService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\EventLikeService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\EventLikeService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\EventLikeService.cs",
+              "RelativeToolTip": "SuKien\\Services\\EventLikeService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:35:48.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEventLikeService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IEventLikeService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\IEventLikeService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IEventLikeService.cs",
+              "RelativeToolTip": "SuKien\\Services\\IEventLikeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:34:58.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostLikeService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\PostLikeService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\PostLikeService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\PostLikeService.cs",
+              "RelativeToolTip": "SuKien\\Services\\PostLikeService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:33:20.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPostLikeService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IPostLikeService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\IPostLikeService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IPostLikeService.cs",
+              "RelativeToolTip": "SuKien\\Services\\IPostLikeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:32:54.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QRCheckinService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\QRCheckinService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\QRCheckinService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\QRCheckinService.cs",
+              "RelativeToolTip": "SuKien\\Services\\QRCheckinService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:23:12.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Program.cs",
+              "RelativeDocumentMoniker": "SuKien\\Program.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Program.cs",
+              "RelativeToolTip": "SuKien\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:45:43.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LikesController.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\LikesController.cs",
+              "RelativeDocumentMoniker": "SuKien\\Controllers\\LikesController.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\LikesController.cs",
+              "RelativeToolTip": "SuKien\\Controllers\\LikesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:34:01.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IQRCheckinService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IQRCheckinService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\IQRCheckinService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IQRCheckinService.cs",
+              "RelativeToolTip": "SuKien\\Services\\IQRCheckinService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:22:17.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\PostService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\PostService.cs",
+              "RelativeToolTip": "SuKien\\Services\\PostService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:11:45.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "SuKien\\DTOs\\PostDto.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "SuKien\\DTOs\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:46:24.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QRCheckin.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\QRCheckin.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\QRCheckin.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\QRCheckin.cs",
+              "RelativeToolTip": "SuKien\\Models\\QRCheckin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:39:03.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckinController.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\CheckinController.cs",
+              "RelativeDocumentMoniker": "SuKien\\Controllers\\CheckinController.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\CheckinController.cs",
+              "RelativeToolTip": "SuKien\\Controllers\\CheckinController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:33:47.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "SuKien\\Controllers\\EventsController.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "SuKien\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:32:48.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IPostService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\IPostService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IPostService.cs",
+              "RelativeToolTip": "SuKien\\Services\\IPostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:10:52.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\Class.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\Class.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\Class.cs",
+              "RelativeToolTip": "SuKien\\Services\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:53:14.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\AdminService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\AdminService.cs",
+              "RelativeToolTip": "SuKien\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:57:09.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "SuKien\\Controllers\\PostsController.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "SuKien\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:33:34.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParticipantsController.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\ParticipantsController.cs",
+              "RelativeDocumentMoniker": "SuKien\\Controllers\\ParticipantsController.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\ParticipantsController.cs",
+              "RelativeToolTip": "SuKien\\Controllers\\ParticipantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:33:19.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\IEventService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IEventService.cs",
+              "RelativeToolTip": "SuKien\\Services\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:15:34.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\EventService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\EventService.cs",
+              "RelativeToolTip": "SuKien\\Services\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:13:34.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IAdminService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\IAdminService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IAdminService.cs",
+              "RelativeToolTip": "SuKien\\Services\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:52:41.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISponsorService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\ISponsorService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\ISponsorService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\ISponsorService.cs",
+              "RelativeToolTip": "SuKien\\Services\\ISponsorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:53:36.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\appsettings.json",
+              "RelativeDocumentMoniker": "SuKien\\appsettings.json",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\appsettings.json",
+              "RelativeToolTip": "SuKien\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T09:20:43.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SuKien\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SuKien\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T09:26:10.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\Post.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Post.cs",
+              "RelativeToolTip": "SuKien\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:36:03.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ParticipantService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\ParticipantService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\ParticipantService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\ParticipantService.cs",
+              "RelativeToolTip": "SuKien\\Services\\ParticipantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:25:55.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ParticipantDto.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\ParticipantDto.cs",
+              "RelativeDocumentMoniker": "SuKien\\DTOs\\ParticipantDto.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\ParticipantDto.cs",
+              "RelativeToolTip": "SuKien\\DTOs\\ParticipantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:45:41.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventParticipantDto.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\EventParticipantDto.cs",
+              "RelativeDocumentMoniker": "SuKien\\DTOs\\EventParticipantDto.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\EventParticipantDto.cs",
+              "RelativeToolTip": "SuKien\\DTOs\\EventParticipantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:48:40.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\EventDto.cs",
+              "RelativeDocumentMoniker": "SuKien\\DTOs\\EventDto.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\EventDto.cs",
+              "RelativeToolTip": "SuKien\\DTOs\\EventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:44:25.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SuKien\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SuKien\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:31:35.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IParticipantService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IParticipantService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\IParticipantService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\IParticipantService.cs",
+              "RelativeToolTip": "SuKien\\Services\\IParticipantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:54:20.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SponsorService.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\SponsorService.cs",
+              "RelativeDocumentMoniker": "SuKien\\Services\\SponsorService.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Services\\SponsorService.cs",
+              "RelativeToolTip": "SuKien\\Services\\SponsorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:25:19.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminControlller.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\AdminControlller.cs",
+              "RelativeDocumentMoniker": "SuKien\\Controllers\\AdminControlller.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\AdminControlller.cs",
+              "RelativeToolTip": "SuKien\\Controllers\\AdminControlller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:31:26.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QRCheckinDto.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\QRCheckinDto.cs",
+              "RelativeDocumentMoniker": "SuKien\\DTOs\\QRCheckinDto.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\QRCheckinDto.cs",
+              "RelativeToolTip": "SuKien\\DTOs\\QRCheckinDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:48:04.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SponsorsController.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\SponsorsController.cs",
+              "RelativeDocumentMoniker": "SuKien\\Controllers\\SponsorsController.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Controllers\\SponsorsController.cs",
+              "RelativeToolTip": "SuKien\\Controllers\\SponsorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:33:06.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SuKien\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SuKien\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:10:14.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SponsorDto.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\SponsorDto.cs",
+              "RelativeDocumentMoniker": "SuKien\\DTOs\\SponsorDto.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\SponsorDto.cs",
+              "RelativeToolTip": "SuKien\\DTOs\\SponsorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:45:11.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminDto.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\AdminDto.cs",
+              "RelativeDocumentMoniker": "SuKien\\DTOs\\AdminDto.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\AdminDto.cs",
+              "RelativeToolTip": "SuKien\\DTOs\\AdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:43:55.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PostLikeDto.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\PostLikeDto.cs",
+              "RelativeDocumentMoniker": "SuKien\\DTOs\\PostLikeDto.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\PostLikeDto.cs",
+              "RelativeToolTip": "SuKien\\DTOs\\PostLikeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:46:57.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EventLikeDto.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\EventLikeDto.cs",
+              "RelativeDocumentMoniker": "SuKien\\DTOs\\EventLikeDto.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\DTOs\\EventLikeDto.cs",
+              "RelativeToolTip": "SuKien\\DTOs\\EventLikeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:47:31.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EventParticipant.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\EventParticipant.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\EventParticipant.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\EventParticipant.cs",
+              "RelativeToolTip": "SuKien\\Models\\EventParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:39:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EventLike.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\EventLike.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\EventLike.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\EventLike.cs",
+              "RelativeToolTip": "SuKien\\Models\\EventLike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:38:38.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PostLike.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\PostLike.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\PostLike.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\PostLike.cs",
+              "RelativeToolTip": "SuKien\\Models\\PostLike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:38:11.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SuKien\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:36:46.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\Participant.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Participant.cs",
+              "RelativeToolTip": "SuKien\\Models\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:35:32.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Sponsor.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Sponsor.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\Sponsor.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Sponsor.cs",
+              "RelativeToolTip": "SuKien\\Models\\Sponsor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:35:13.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Event.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\Event.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Event.cs",
+              "RelativeToolTip": "SuKien\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:34:45.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "SuKien\\Models\\Admin.cs",
+              "ToolTip": "E:\\Thuctap\\SuKien\\SuKien\\SuKien\\Models\\Admin.cs",
+              "RelativeToolTip": "SuKien\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:34:11.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
